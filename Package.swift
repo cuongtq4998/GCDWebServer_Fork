@@ -6,7 +6,7 @@ let package = Package(
 	name: "GCDWebServer",
 	platforms: [
 		.macOS(.v10_15),
-		.iOS(.v13),
+		.iOS(.v12),
 		.tvOS(.v14),
 	],
 	products: [
